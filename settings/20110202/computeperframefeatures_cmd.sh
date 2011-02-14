@@ -2,7 +2,7 @@
 
 EXPDIR=$1
 SCRIPTDIR=`dirname "$0"`
-SCRIPT=$SCRIPTDIR/run_FlyBowlRegisterTrx.sh
+SCRIPT=$SCRIPTDIR/run_FlyBowlComputePerFrameFeatures.sh 
 MCR=/groups/branson/bransonlab/projects/olympiad/MCR/v714
 PROTOCOL=20110202
 
