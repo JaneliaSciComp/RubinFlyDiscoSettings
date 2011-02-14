@@ -29,3 +29,12 @@ statsparamsfilestr,stats_params.txt
 statsperframefeaturesfilestr,stats_perframefeatures.txt
 statframeconditionfilestr,statframeconditions.txt
 statflyconditionfilestr,statflyconditions.txt
+statsperframetxtfilestr,stats_perframe.txt
+statsperframematfilestr,stats_perframe.mat
+histparamsfilestr,hist_params.txt
+histperframefeaturesfilestr,hist_perframefeatures.txt
+histperframedir,hist_perframe
+histperframebinsfilestr,hist_perframebins.mat
+histperframetxtfilestr,hist_perframe.txt
+histperframematfilestr,hist_perframe.mat
+figdir,analysis_plots
