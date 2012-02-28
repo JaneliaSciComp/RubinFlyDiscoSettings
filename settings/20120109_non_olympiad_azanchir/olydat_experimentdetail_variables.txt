@@ -17,4 +17,3 @@ temperature_diagnostics_mean
 temperature_diagnostics_maxdiff
 humidity
 sexclassifier_diagnostics_classifier_mu_area_male
-sexclassifier_diagnostics_classifier_mu_area_female
