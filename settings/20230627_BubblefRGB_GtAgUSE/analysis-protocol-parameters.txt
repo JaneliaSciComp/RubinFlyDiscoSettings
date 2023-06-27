@@ -5,10 +5,10 @@ doledonoffdetection,on
 dotrackwings,on
 dosexclassification,on
 docomputeperframefeatures,on
-docomputeperframestats,on
+docomputeperframestats,off
 docomputehoghofperframefeatures,off
 dojaabadetect,on
-doplotperframestats,on
+doplotperframestats,off
 domakectraxresultsmovie,on
 doapt,on
 domakeaptresultsmovie,on
