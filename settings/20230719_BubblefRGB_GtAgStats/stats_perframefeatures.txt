@@ -1,0 +1,30 @@
+# <per-frame feature>,<frame condition name>,<fly condition name>,<min n. frames both valid>,<min n. frames fly valid>,[<norm per-frame feature>],[<norm frame condition name>],[<norm fly condition name>],[<norm min n. frames both valid>],[<norm min n. frames fly valid>]
+
+# The average of velmag in first 5s of each stimulus on period normalized by the average of velmag in the entire pre-stimulus period (30s)
+velmag_ctr,poststimweak5,any,25,100,stimoff1
+velmag_ctr,poststimstrong5,any,25,100,stimoff1
+velmag_ctr,prestimweak5,any,25,100,stimoff1
+velmag_ctr,prestimstrong5,any,25,100,stimoff1
+
+# The average of velmag in first 10s of each stimulus on period normalized by the average of velmag in the entire pre-stimulus period (30s)
+velmag_ctr,poststimweak10,any,25,100,stimoff1
+velmag_ctr,poststimstrong10,any,25,100,stimoff1
+velmag_ctr,prestimweak10,any,25,100,stimoff1
+velmag_ctr,prestimstrong10,any,25,100,stimoff1
+
+# The average distance of flies (as calculated by dcenter) in the first 5s of each stimulus normalized by the entire prestim baseline
+dcenter,poststimweak5,any,25,100,stimoff1
+dcenter,poststimstrong5,any,25,100,stimoff1
+dcenter,prestimweak5,any,25,100,stimoff1
+dcenter,prestimstrong5,any,25,100,stimoff1
+
+# The average distance of flies (as calculated by dcenter) in the first 10s of each stimulus normalized by the entire prestim baseline
+dcenter,poststimweak10,any,25,100,stimoff1
+dcenter,poststimstrong10,any,25,100,stimoff1
+dcenter,prestimweak10,any,25,100,stimoff1
+dcenter,prestimstrong10,any,25,100,stimoff1
+
+# The average distance to other flies during aggressive bout in first 10s of stimulus 
+dcenter,stimon1stcloagg,any,25,100,stimoff1
+
+
