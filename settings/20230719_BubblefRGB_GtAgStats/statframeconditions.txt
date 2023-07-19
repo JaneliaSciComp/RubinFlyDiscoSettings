@@ -25,8 +25,8 @@ stimon1startclose,part0to10s_stimon_1_2_3,nflies_close,2
 stimoff1startclose,part0to10s_stimoff_1_2_3,nflies_close,2
 stimon2startclose,part0to10s_stimon_4_5_6,nflies_close,2
 stimoff2startclose,part0to10s_stimoff_4_5_6,nflies_close,2
-stimonstweakagg,poststimweak10,aggression,1
-stimonststrongagg,poststimstrong10,aggression,1
+stimonstweakagg,part0to10s_stimon_1_2_3,equal_labels_FeAggfRGBub,1
+stimonststrongagg,part0to10s_stimon_4_5_6,equal_labels_FeAggfRGBub,1
 
 #stimon1move,stimon_1,velmag_ctr,2
 #stimon1notmoveclose,equal_labels_stimon1move,0,nflies_close,2

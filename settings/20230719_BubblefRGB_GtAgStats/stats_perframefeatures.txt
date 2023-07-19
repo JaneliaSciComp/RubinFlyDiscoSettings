@@ -25,7 +25,7 @@ dcenter,prestimweak10,any,25,100,stimoff1
 dcenter,prestimstrong10,any,25,100,stimoff1
 
 # The average distance to other flies during aggressive bout in first 10s of stimulus 
-stimonstweakagg,poststimweak10,aggression,1
-stimonststrongagg,poststimstrong10,aggression,1
+dcenter,stimonstweakagg,any,25,100,stimoff1
+dcenter,stimonststrongagg,any,25,100,stimoff1
 
 
