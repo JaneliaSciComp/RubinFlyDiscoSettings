@@ -8,7 +8,7 @@ docomputeperframefeatures,off
 docomputeperframestats,on
 docomputehoghofperframefeatures,off
 dojaabadetect,off
-doplotperframestats,on
+doplotperframestats,off
 domakectraxresultsmovie,off
 doapt,off
 domakeaptresultsmovie,off
