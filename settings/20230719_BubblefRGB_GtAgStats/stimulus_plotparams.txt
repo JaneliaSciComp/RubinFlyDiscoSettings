@@ -1,4 +1,4 @@
-features,forward_vel,absdtheta
+features,dcenter
 prestim,10
 poststim,10
 ylim_prctile,1
