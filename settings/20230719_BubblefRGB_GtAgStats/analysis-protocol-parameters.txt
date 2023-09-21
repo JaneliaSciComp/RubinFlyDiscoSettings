@@ -5,7 +5,7 @@ doledonoffdetection,off
 dotrackwings,off
 dosexclassification,off
 docomputeperframefeatures,off
-docomputeperframestats,on
+docomputeperframestats,force
 docomputehoghofperframefeatures,off
 dojaabadetect,off
 doplotperframestats,off
