@@ -1,0 +1,15 @@
+doautomaticchecksincoming,force
+doflytracking,force
+doregistration,force
+doledonoffdetection,force
+dotrackwings,force
+dosexclassification,on
+docomputeperframefeatures,force
+docomputeperframestats,off
+docomputehoghofperframefeatures,off
+dojaabadetect,off
+doplotperframestats,off
+domakectraxresultsmovie,on
+doapt,force
+domakeaptresultsmovie,on
+doautomaticcheckscomplete,force
